@@ -1,0 +1,515 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.22)  22 OCT 2018 15:54
+entering extended mode
+**./hayashi5.tex
+(hayashi5.tex
+LaTeX2e <2018-04-01> patch level 5
+(aip-cp.cls
+Document Class: aip-cp 2014/12/10 v1.0 Standard LaTeX document class for AIP Co
+nference Proceedings
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\txfonts.sty"
+Package: txfonts 2008/01/22 v3.2.1
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/m/n on input line 21.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/m/n --> OT1/txr/bx/n on input line 22.
+\symitalic=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `italic' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 26.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/txr/bx/n on input line 29.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/txr/m/it on input line 30.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/m/it --> OT1/txr/bx/it on input line 31.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/txss/m/n on input line 40.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/m/n --> OT1/txss/b/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/txtt/m/n on input line 50.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/m/n --> OT1/txtt/b/n on input line 51.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/txmi/m/it on input line 58.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/m/it --> OML/txmi/bx/it on input line 59.
+\symlettersA=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `lettersA' in version `bold'
+(Font)                  U/txmia/m/it --> U/txmia/bx/it on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/txsy/m/n on input line 77.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/m/n --> OMS/txsy/bx/n on input line 78.
+\symAMSa=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/txsya/m/n --> U/txsya/bx/n on input line 94.
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/txsyb/m/n --> U/txsyb/bx/n on input line 103.
+\symsymbolsC=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `symbolsC' in version `bold'
+(Font)                  U/txsyc/m/n --> U/txsyc/bx/n on input line 113.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/txex/m/n on input line 120.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/m/n --> OMX/txex/bx/n on input line 121.
+\symlargesymbolsA=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `largesymbolsA' in version `bold'
+(Font)                  U/txexa/m/n --> U/txexa/bx/n on input line 129.
+LaTeX Info: Redefining \not on input line 1043.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+\c@authorcount=\count80
+\eadrcount=\count81
+\c@affn=\count82
+\c@cornote=\count83
+\tempcount=\count84
+\tempacount=\count85
+\c@part=\count86
+\c@section=\count87
+\c@subsection=\count88
+\c@subsubsection=\count89
+\c@paragraph=\count90
+\c@subparagraph=\count91
+\c@figure=\count92
+\c@table=\count93
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen104
+\float@captionwidth=\dimen105
+\float@box=\box26
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count95
+\rotFPtop=\skip45
+\rotFPbot=\skip46
+\rot@float@box=\box27
+\rot@mess@toks=\toks15
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/txr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/txmi/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/txsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/txex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/txr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/txmi/bx/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/txsy/bx/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/txex/bx/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/txr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/txss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/txr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/txtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/txr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/txss/b/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/txr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/txtt/b/n --> OT1/lmtt/m/n on input line 38.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (hayashi5.aux)
+\openout1 = `hayashi5.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 11.
+LaTeX Font Info:    Try loading font information for OML+txmi on input line 11.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omltxmi.fd"
+File: omltxmi.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for OMS+txsy on input line 11.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omstxsy.fd"
+File: omstxsy.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for OMX+txex on input line 11.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\omxtxex.fd"
+File: omxtxex.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 11.
+LaTeX Font Info:    Try loading font information for U+txexa on input line 11.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxexa.fd"
+File: utxexa.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 11.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count96
+\scratchdimen=\dimen106
+\scratchbox=\box28
+\nofMPsegments=\count97
+\nofMParguments=\count98
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count99
+\MPscratchDim=\dimen107
+\MPnumerator=\count100
+\makeMPintoPDFobject=\count101
+\everyMPtoPDFconversion=\toks17
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@tabnotecount=\count102
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 28.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 28.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <14> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9.79996> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 28.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\ot1txr.fd"
+File: ot1txr.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txmia on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxmia.fd"
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsya on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxsya.fd"
+File: utxsya.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxsyb.fd"
+File: utxsyb.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 28.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\txfonts\utxsyc.fd"
+File: utxsyc.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 28.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 28.
+
+
+Package natbib Warning: Citation `bib1' on page 1 undefined on input line 52.
+
+[1{C:/Users/aa.bugaev.S-VFU/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[2]
+<art/Fig_01.png, id=21, 1601.985pt x 999.735pt>
+File: art/Fig_01.png Graphic file (type png)
+<use art/Fig_01.png>
+Package pdftex.def Info: art/Fig_01.png  used on input line 207.
+(pdftex.def)             Requested size: 250.0pt x 156.00989pt.
+ [3 <./art/Fig_01.png (PNG copy)>]
+<art/Fig_02.png, id=26, 484.866pt x 541.6965pt>
+File: art/Fig_02.png Graphic file (type png)
+<use art/Fig_02.png>
+Package pdftex.def Info: art/Fig_02.png  used on input line 255.
+(pdftex.def)             Requested size: 250.0pt x 279.3033pt.
+ [4 <./art/Fig_02.png>]
+<art/Fig_03_2.png, id=30, 808.01875pt x 808.01875pt>
+File: art/Fig_03_2.png Graphic file (type png)
+<use art/Fig_03_2.png>
+Package pdftex.def Info: art/Fig_03_2.png  used on input line 282.
+(pdftex.def)             Requested size: 250.0pt x 249.99005pt.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <9> on input line 286.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 286.
+<art/Fig_04.png, id=31, 792.9625pt x 561.09625pt>
+File: art/Fig_04.png Graphic file (type png)
+<use art/Fig_04.png>
+Package pdftex.def Info: art/Fig_04.png  used on input line 304.
+(pdftex.def)             Requested size: 300.0pt x 212.27701pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<art/Fig_05.png, id=32, 1078.0275pt x 539.01375pt>
+File: art/Fig_05.png Graphic file (type png)
+<use art/Fig_05.png>
+Package pdftex.def Info: art/Fig_05.png  used on input line 315.
+(pdftex.def)             Requested size: 300.0pt x 150.00165pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./art/Fig_03_2.png (PNG copy)>]
+<art/Fig_06_a.png, id=37, 527.9725pt x 441.65pt>
+File: art/Fig_06_a.png Graphic file (type png)
+<use art/Fig_06_a.png>
+Package pdftex.def Info: art/Fig_06_a.png  used on input line 364.
+(pdftex.def)             Requested size: 227.6199pt x 227.62413pt.
+<art/Fig_06_b.png, id=38, 566.115pt x 391.4625pt>
+File: art/Fig_06_b.png Graphic file (type png)
+<use art/Fig_06_b.png>
+Package pdftex.def Info: art/Fig_06_b.png  used on input line 366.
+(pdftex.def)             Requested size: 227.61678pt x 227.62183pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<art/Fig_07_a.png, id=39, 807.015pt x 808.01875pt>
+File: art/Fig_07_a.png Graphic file (type png)
+<use art/Fig_07_a.png>
+Package pdftex.def Info: art/Fig_07_a.png  used on input line 397.
+(pdftex.def)             Requested size: 199.1673pt x 199.16844pt.
+<art/Fig_07_b.png, id=40, 807.015pt x 808.01875pt>
+File: art/Fig_07_b.png Graphic file (type png)
+<use art/Fig_07_b.png>
+Package pdftex.def Info: art/Fig_07_b.png  used on input line 399.
+(pdftex.def)             Requested size: 199.1673pt x 199.16844pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[6 <./art/Fig_04.png (PNG copy)>] [7 <./art/Fig_05.png (PNG copy)> <./art/Fig_0
+6_a.png> <./art/Fig_06_b.png>]
+<art/Fig_08_a.png, id=50, 971.63pt x 1112.155pt>
+File: art/Fig_08_a.png Graphic file (type png)
+<use art/Fig_08_a.png>
+Package pdftex.def Info: art/Fig_08_a.png  used on input line 448.
+(pdftex.def)             Requested size: 199.15579pt x 256.07877pt.
+<art/Fig_08_b.png, id=51, 971.63pt x 1112.155pt>
+File: art/Fig_08_b.png Graphic file (type png)
+<use art/Fig_08_b.png>
+Package pdftex.def Info: art/Fig_08_b.png  used on input line 450.
+(pdftex.def)             Requested size: 199.15579pt x 256.07877pt.
+<art/Fig_09.png, id=52, 1076.02pt x 539.01375pt>
+File: art/Fig_09.png Graphic file (type png)
+<use art/Fig_09.png>
+Package pdftex.def Info: art/Fig_09.png  used on input line 467.
+(pdftex.def)             Requested size: 300.0pt x 150.28128pt.
+ [8 <./art/Fig_07_a.png> <./art/Fig_07_b.png> <./art/Fig_08_a.png> <./art/Fig_0
+8_b.png>]
+<art/Fig_10.png, id=60, 1076.02pt x 539.01375pt>
+File: art/Fig_10.png Graphic file (type png)
+<use art/Fig_10.png>
+Package pdftex.def Info: art/Fig_10.png  used on input line 472.
+(pdftex.def)             Requested size: 300.0pt x 150.28128pt.
+<art/Fig_11_a.png, id=61, 489.83pt x 550.055pt>
+File: art/Fig_11_a.png Graphic file (type png)
+<use art/Fig_11_a.png>
+Package pdftex.def Info: art/Fig_11_a.png  used on input line 499.
+(pdftex.def)             Requested size: 199.16484pt x 256.08347pt.
+<art/Fig_11_b.png, id=62, 494.84875pt x 552.0625pt>
+File: art/Fig_11_b.png Graphic file (type png)
+<use art/Fig_11_b.png>
+Package pdftex.def Info: art/Fig_11_b.png  used on input line 501.
+(pdftex.def)             Requested size: 199.16676pt x 256.08304pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<art/Fig_12_ab.png, id=63, 1363.0925pt x 917.4275pt>
+File: art/Fig_12_ab.png Graphic file (type png)
+<use art/Fig_12_ab.png>
+Package pdftex.def Info: art/Fig_12_ab.png  used on input line 508.
+(pdftex.def)             Requested size: 400.0pt x 269.21089pt.
+[9 <./art/Fig_09.png> <./art/Fig_10.png>]
+<art/Fig_13.png, id=69, 505.49509pt x 420.98262pt>
+File: art/Fig_13.png Graphic file (type png)
+<use art/Fig_13.png>
+Package pdftex.def Info: art/Fig_13.png  used on input line 542.
+(pdftex.def)             Requested size: 300.0pt x 249.85503pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+No file hayashi5.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+[10 <./art/Fig_11_a.png> <./art/Fig_11_b.png>] [11 <./art/Fig_12_ab.png (PNG co
+py)>] [12 <./art/Fig_13.png>] (hayashi5.aux) ) 
+Here is how much of TeX's memory you used:
+ 3143 strings out of 492970
+ 41491 string characters out of 3135824
+ 97496 words of memory out of 3000000
+ 6923 multiletter control sequences out of 15000+200000
+ 83434 words of font info for 92 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,28p,291b,280s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/font
+s/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm
+-rm.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Progr
+am Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTeX 2
+.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/lm/lmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx9.pfb><C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmm
+i7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/lm/lmsy9.pfb>
+Output written on hayashi5.pdf (12 pages, 8252539 bytes).
+PDF statistics:
+ 129 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
