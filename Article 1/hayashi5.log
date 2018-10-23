@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.22)  22 OCT 2018 17:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.22)  23 OCT 2018 09:58
 entering extended mode
 **./hayashi5.tex
 (hayashi5.tex
@@ -364,14 +364,19 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 26.
- [1{C:/Users/dorofei/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
-<art/Fig_01.png, id=20, 301.125pt x 301.125pt>
+ [1{C:/Users/aa.bugaev.S-VFU/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+]
+
+LaTeX Warning: Reference `eq1' on page 2 undefined on input line 118.
+
+[2]
+<art/Fig_01.png, id=21, 301.125pt x 301.125pt>
 File: art/Fig_01.png Graphic file (type png)
 <use art/Fig_01.png>
 Package pdftex.def Info: art/Fig_01.png  used on input line 199.
 (pdftex.def)             Requested size: 250.0pt x 250.01178pt.
  [3]
-<art/Fig_02.png, id=25, 220.825pt x 213.79875pt>
+<art/Fig_02.png, id=26, 220.825pt x 213.79875pt>
 File: art/Fig_02.png Graphic file (type png)
 <use art/Fig_02.png>
 Package pdftex.def Info: art/Fig_02.png  used on input line 246.
@@ -381,34 +386,104 @@ Package pdftex.def Info: art/Fig_02.png  used on input line 246.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [4 <./art/Fig_01.png>]
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 289.
+
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\lm\omslmr.fd"
+File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 289.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 291.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 292.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 292.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 292.
+
+
+LaTeX Font Warning: Command \small invalid in math mode on input line 292.
+
 No file hayashi5.bbl.
-[5 <./art/Fig_02.png>] (hayashi5.aux) ) 
+[5 <./art/Fig_02.png>] (hayashi5.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3216 strings out of 492970
- 41320 string characters out of 3135848
- 101126 words of memory out of 3000000
- 7008 multiletter control sequences out of 15000+200000
- 70636 words of font info for 77 fonts, out of 3000000 for 9000
+ 3233 strings out of 492970
+ 41758 string characters out of 3135824
+ 101046 words of memory out of 3000000
+ 7021 multiletter control sequences out of 15000+200000
+ 73631 words of font info for 78 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,6n,28p,577b,223s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/d
-vips/lm/lm-rm.enc} <C:\Users\dorofei\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\p
-ublic\wasy\dpi600\wasy10.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-
-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathex.enc}{C:/Pr
-ogram Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files/MiKTe
-X 2.9/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx9.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmex10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/l
-mr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr12.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/
-Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
-Output written on hayashi5.pdf (5 pages, 298084 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Fil
+es/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc} <C:\Users\aa.bugaev.S-VFU\AppData\L
+ocal\MiKTeX\2.9\fonts\pk\ljfour\public\wasy\dpi600\wasy10.pk>{C:/Program Files/
+MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.9/fonts/
+enc/dvips/lm/lm-ec.enc}{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathe
+x.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/lm/lmbx9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/lm/lmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmmi5.pfb><C:/Program Files/M
+iKTeX 2.9/fonts/type1/public/lm/lmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr1
+2.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmr5.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/lm/lmr7.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/lm/lmr9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/
+lmri10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb>
+Output written on hayashi5.pdf (5 pages, 326547 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
+ 91 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
